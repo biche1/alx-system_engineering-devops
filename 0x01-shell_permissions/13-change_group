@@ -1,0 +1,3 @@
+#!/bin/bash
+chgrp school hello
+[6:08 pm, 26/05/2022] BLUEPRINT FOREAX ACADEMY: 14 100-change_owner_and_group
